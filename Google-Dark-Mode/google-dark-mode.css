@@ -1,0 +1,33 @@
+/*
+	We override the default styles from Google
+*/
+a{
+	color: #2482fc !important;
+}
+span, .gLFyf.gsfi, .gN089b, #gbqfbb, .RNmpXc, .gbqfba.gbqfba-hvr{
+	color: #f9f9f9 !important;
+}
+.gN089b{
+	background: #2482fc !important;
+}
+body{
+	background: #121212 !important;
+}
+.sbhl{
+	background: #000000 !important;
+}
+.RNNXgb, #gbqfbb, .RNmpXc, .gbqfba.gbqfba-hvr, .f6F9Be, .aajZCb {
+	background: #040404 !important;
+}
+.f6F9Be, .b2hzT, .xtSCL {
+	border-color: #000000 !important;
+}
+.FqnKTc {
+	border-color: #121212 !important;
+}
+.RNNXgb, .gN089b, #gbqfbb, .RNmpXc, .gbqfba.gbqfba-hvr {
+	border: none !important;
+}
+.gb_D.gb_wc {
+	filter: invert(100%) !important;
+}

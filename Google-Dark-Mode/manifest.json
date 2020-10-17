@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+	"name": "Google Dark Mode",
+	"description": "Google drak Mode will turn off the lights for the Google Search Page",
+	"version": "1.0.0",
+	"content_scripts": [
+		{
+			"css": [
+				"google-dark-mode.css"
+			],
+			"matches":[
+				"https://www.google.co.in/",
+				"https://www.youtube.com/"
+			]
+		}
+	]
+}
+	
